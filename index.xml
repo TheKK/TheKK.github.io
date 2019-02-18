@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KK&#39;s note</title>
+    <link>https://yourwebsitenamegoeshere.com/</link>
+    <description>Recent content on KK&#39;s note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 19 Feb 2019 02:18:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://yourwebsitenamegoeshere.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>好久不見</title>
+      <link>https://yourwebsitenamegoeshere.com/posts/new-return/</link>
+      <pubDate>Tue, 19 Feb 2019 02:18:11 +0800</pubDate>
+      
+      <guid>https://yourwebsitenamegoeshere.com/posts/new-return/</guid>
+      <description>真的是好久不見</description>
+    </item>
+    
+  </channel>
+</rss>
