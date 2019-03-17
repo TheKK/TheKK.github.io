@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://TheKK.github.io/posts/linked-list-0/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://TheKK.github.io/posts/new-return/</loc>
     <lastmod>2019-02-19T02:18:11+08:00</lastmod>
   </url>
@@ -15,6 +20,12 @@
   <url>
     <loc>https://TheKK.github.io/about/</loc>
     <lastmod>2019-03-17T14:13:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheKK.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,13 +41,26 @@
   </url>
   
   <url>
+    <loc>https://TheKK.github.io/tags/modern-c&#43;&#43;/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://TheKK.github.io/posts/</loc>
-    <lastmod>2019-02-19T02:18:11+08:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://TheKK.github.io/tags/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheKK.github.io/tags/%E5%AD%B8%E6%A0%A1%E4%B8%8D%E6%9C%83%E6%95%99%E7%9A%84c&#43;&#43;/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

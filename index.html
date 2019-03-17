@@ -135,6 +135,41 @@
     
       <div class="post-list__item">
         <span class="item__title--big">
+          <a href="/posts/linked-list-0/">學校不會教你的 C&#43;&#43; linked list 之 0</a>
+          
+        </span>
+        <span class="item__date">
+          Mar 17, 2019
+        </span>
+        
+        給想寫作業而跑進來的小綿羊們 如果我的記憶沒有錯的話，我以前也 google 過如何實作 linked list 實作的文章，這八成是資工系萬古(如果那個時候還有人在寫程式)不變的題目吧
+簡單來說，如果你只是想要這個晚上趕快吧作業寫完，好去夜衝或是玩遊戲的人，這系列文章並不是為你寫的，但是，嘿，我也喜歡玩遊戲
+這只是一系列無聊冗長的介紹，因為你寫的東西是 C++，因為現在是 2019 年，所以你必須要習慣這點。或是你也可以加入 C++ 標準委員會的行列，幫助他們審查各種 paper，加速 C++ 的發展。啊，不過還是三年更新一次，等到那個時候，我希望你已經順利畢業了
+廢話說完，讓我們進入正題吧
+寫一個 linked list，這不是大學一年級的作業嗎？ 是，但是有多少大學的作業，真的有好好的要求呢？
+你的容器要如何讓其他開發者使用?
+你的選擇怎樣的 build system？你如何打包你寫出來的套件？
+你選用那一套測試框架？
+你有寫測試嗎？你如何驗證程式的正確性？
+你的容器要用怎樣的錯誤處理回報的？
+你有仔細思考過如果設計容器的 API 嗎？
+你有考慮過 ABI 相容問題嗎？
+你的容器有是泛型容器嗎？還是該死的只能裝個 int?
+你的容器要怎樣支援 C++ std algorithm 呢？
+你的容器需要做類似 SSO (Small String Optimization) 的處理來加速嗎?
+你有處理 rvalue reference 呼叫 method 時的特例嗎?
+你的容器支援 copy 或是 move 嗎？如果有，他們都正確嗎？
+最後，你設計出來的容器，使用上真的好用嗎？
+前言 這一篇中，我們還不會開始撰寫程式碼，而是要先選定開發中會用到的工具跟選擇，他們分別為：
+ 目標的作業系統 編譯器 採用何種 C++ 標準 套件管理系統 (package management) 版本控制系統 (version control system) 建制系統 (build system) 測試環境 CI 環境 專案的 layout 友善的 IDE 支援  選擇目標的作業系統 你的函式庫想要給哪些作業系統使用？
+        
+        
+          ... <a class="read-more-symbol" href="/posts/linked-list-0/">➦</a>
+        
+        </div>
+     
+      <div class="post-list__item">
+        <span class="item__title--big">
           <a href="/posts/new-return/">好久不見</a>
           
         </span>
