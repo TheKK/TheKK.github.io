@@ -3,29 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yourwebsitenamegoeshere.com/posts/new-return/</loc>
+    <loc>https://TheKK.github.io/about/aboutme/</loc>
+    <lastmod>2019-03-17T14:13:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://TheKK.github.io/posts/new-return/</loc>
     <lastmod>2019-02-19T02:18:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yourwebsitenamegoeshere.com/categories/</loc>
+    <loc>https://TheKK.github.io/about/</loc>
+    <lastmod>2019-03-17T14:13:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yourwebsitenamegoeshere.com/</loc>
+    <loc>https://TheKK.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheKK.github.io/</loc>
+    <lastmod>2019-03-17T14:13:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheKK.github.io/posts/</loc>
     <lastmod>2019-02-19T02:18:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yourwebsitenamegoeshere.com/posts/</loc>
-    <lastmod>2019-02-19T02:18:11+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yourwebsitenamegoeshere.com/tags/</loc>
+    <loc>https://TheKK.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
