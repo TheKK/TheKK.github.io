@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:TheKK/TheKK.github.io.git
+	branch = master
+[submodule "hyde-hyde"]
+	path = hyde-hyde
+	url = ./themes/hyde-hyde
