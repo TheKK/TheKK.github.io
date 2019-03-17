@@ -5,6 +5,8 @@ theme = "hyde-hyde"
 googleAnalytics = "Your google analytics tracking ID - optional"
 disqusShortname = "new-kks-note"
 
+summarylength = 5
+
 [params]
 author = "TheKK"
 title = "KK's NOTE"
