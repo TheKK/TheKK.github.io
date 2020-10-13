@@ -1,7 +1,7 @@
 ---
 title: "好久不見"
 date: 2019-02-19
-tags: ["old blog"]
+tags: ["blog/old"]
 ---
 
 真的是好久不見，之前在 Logdown 的登入權限不知道為什麼就這樣消失了，算了

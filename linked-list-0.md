@@ -1,7 +1,7 @@
 ---
 title: "學校不會教你的 C++ linked list 之 0"
 date: 2019-03-17
-tags: ["C++", "modern C++", "學校不會教的C++", "old blog"]
+tags: ["C++", "modern C++", "學校不會教的C++", "blog/old"]
 ---
 
 給想寫作業而跑進來的小綿羊們
