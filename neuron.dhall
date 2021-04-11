@@ -1,6 +1,6 @@
 {
   siteTitle = "KK's notes",
-  author = Some "jf",
-  siteBaseUrl = Some "http://localhost:8080/90261a87.html"
+  author = Some "KK",
+  siteBaseUrl = Some "https://thekk.github.io/"
 }
 
