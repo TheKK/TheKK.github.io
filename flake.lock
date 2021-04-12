@@ -1,0 +1,59 @@
+{
+  "nodes": {
+    "flake-utils": {
+      "locked": {
+        "lastModified": 1618217525,
+        "narHash": "sha256-WGrhVczjXTiswQaoxQ+0PTfbLNeOQM6M36zvLn78AYg=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "c6169a2772643c4a93a0b5ac1c61e296cba68544",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "neuron": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1618175079,
+        "narHash": "sha256-xxVmbONuCiYYNJgxLIRPbGP+YHXVjGulr+uIS1fgPtU=",
+        "owner": "srid",
+        "repo": "neuron",
+        "rev": "602c3de9d61ed9f1277bc2fc0ec01ca912f395df",
+        "type": "github"
+      },
+      "original": {
+        "owner": "srid",
+        "repo": "neuron",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1618239124,
+        "narHash": "sha256-LMjqlkIRipLCdmp+mx5NfO8gubvk6Qoq8z5Nbh4PSos=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "ec2157bc327f1b8843f4020cafa8cefc8b99cf1f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "flake-utils": "flake-utils",
+        "neuron": "neuron",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
